@@ -4,11 +4,27 @@
 This is a Discord bot for a CACHA game where user can create character card, spin for their favorite cards and collect them with a virtual currency(ppt-private points), it is based on "Classroom of the Elite" novel. The bot try to hep "classroom of the elite" fans to experience a unique game based on their favorite fanchise.
 
 ## File Structure
-├── bot.py # Main bot file with commands 
-├── config.py # Configuration and constants 
-├── database.py # Database operations and MongoDB connection 
-├── utils.py # Utility functions for embeds, pagination, etc. 
-├── requirements.txt # Python dependencies 
+├── bot.py # Main bot file with commands  
+├── config.py # Configuration and constants   
+├── database.py # Database operations and MongoDB connection   
+├── utils.py # Utility functions for embeds, pagination, etc.  
+├── requirements.txt # Python dependencies  
+
+## Discord appearance
+<img width="603" height="198" alt="Screenshot_2025-09-03_21-02-15" src="https://github.com/user-attachments/assets/b6271016-609c-4c1d-b773-249bd85122cf" />
+<img width="478" height="354" alt="Screenshot_2025-09-03_21-02-44" src="https://github.com/user-attachments/assets/5844c64a-7205-4254-8931-7c79a57bda62" />
+<img width="474" height="552" alt="Screenshot_2025-09-03_21-03-25" src="https://github.com/user-attachments/assets/457493d3-042b-4fa5-99de-3ab0b4439d39" />  
+
+![WhatsApp Image 2025-09-03 at 21 56 47](https://github.com/user-attachments/assets/b2a836fd-2cea-4207-b93f-b8dea35af279)  
+ 
+![WhatsApp Image 2025-09-03 at 21 56 46](https://github.com/user-attachments/assets/8506eb8d-15e8-405f-8fe4-defbade7143b)  
+
+<img width="774" height="348" alt="Screenshot_2025-09-03_21-05-47" src="https://github.com/user-attachments/assets/ddc5bf63-a6c5-44aa-b913-a408271ec14f" />
+<img width="423" height="527" alt="Screenshot_2025-09-03_21-08-24" src="https://github.com/user-attachments/assets/95ef9770-a0ca-43b9-aa0f-318994aa97c3" />
+
+
+
+
 
 ## Key Features
 #### User Registration System - Register users with initial PPT and tokens
